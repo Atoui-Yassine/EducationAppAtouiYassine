@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326975062200",
+    "project_id": "oedu-b60e9",
+    "storage_bucket": "oedu-b60e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326975062200:android:806375448ecefd3d01f44d",
+        "android_client_info": {
+          "package_name": "com.example.oedu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWswdFAnx9pu7BBr3zfyKxSyFdy2uveHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
